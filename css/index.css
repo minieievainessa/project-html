@@ -1,0 +1,44 @@
+.colums {
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr 2fr;
+}
+
+h5 b {
+    color: #d80fb3;
+}
+
+div {
+    border: 2px solid red;
+    margin: 0;
+
+}
+
+#chosen {
+    background-color: yellow;
+}
+
+.leftlogo {
+    float: left;
+    margin: 0;
+}
+
+body {
+    height: 5000px;
+}
+
+:root {
+    font-size: 18px;
+}
+
+h4:hover {
+    text-decoration: underline;
+}
+
+.container p {
+    width: 45%;
+    min-width: 250px;
+}
+
+main {
+    text-align: center;
+}
